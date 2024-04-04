@@ -7,7 +7,7 @@ def main():
   elif a=="y":
       print ("Sometimes it is a vowel, and sometimes it is a consonant!")
   else:
-      print("Entered alphabet is a consonant!")
+      print ("Entered alphabet is a consonant!")
   pass
 
 if __name__ == "__main__":
