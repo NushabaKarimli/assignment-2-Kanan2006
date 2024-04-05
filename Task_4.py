@@ -28,7 +28,7 @@ def main():
             elif (m-2011)%12==0:
                 print(f"{m} is the year of the Hare")
         else:
-            print("Invalid input!")
+            print("Invalid year!")
         pass
 
 if __name__ == "__main__":
