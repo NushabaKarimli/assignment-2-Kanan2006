@@ -1,7 +1,7 @@
 #import libraries here
 
 def main():
-    l=int(input("Enter a wavelength in nm: "))
+    l=int(input("Enter the wavelength in nm: "))
     if l>=380 and l<450:
         print("The relevant color is Violet")
     elif l>=450 and l<495:
